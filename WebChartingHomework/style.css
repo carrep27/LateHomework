@@ -1,0 +1,29 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#mymap,
+body,
+html {
+  height: 100%;
+}
+
+
+.info {
+  padding: 2px 8px;
+  background: rgb(59, 57, 57);
+  background: rgba(71, 102, 116, 0.8);
+}
+
+.legend {
+  line-height: 15px;
+  color: rgb(59, 57, 57);
+}
+.legend i {
+  width: 12px;
+  height: 12px;
+  float: left;
+  margin-right: 2px;
+  opacity: 1.0;
+}
